@@ -6,7 +6,7 @@ This project utilizes HTML, CSS, JS, Python, Django, NLTK, and Tensorflow to cre
 
 The AI-based chatbot aims to assist in detecting signs of depression in users through conversational interactions. The integration of NLP and Tensorflow enhances the chatbot's ability to analyze and respond to user inputs.
 
-### Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
